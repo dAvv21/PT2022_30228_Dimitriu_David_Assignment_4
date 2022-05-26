@@ -1,0 +1,9 @@
+id,username,password, type
+1,david,1234,1
+2,david,12345,2
+3,david,123,0
+4,alex,123456,2
+5,rares,123456,2
+6,florea,123456,1
+7,florin,123456,2
+8,cosmin,123456,0

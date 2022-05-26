@@ -1,0 +1,6 @@
+Product 1:   Red Chile Hot Sauce    13
+Product 2:   Fresh Hot-Pepper Paste    61
+Product 3:   Hot Oat & Quinoa Cereal    65
+Product 4:   Grilled Ground Lamb Kebabs with Fresh Hot-Pepper Paste    39
+TOTAL :   178.0RON
+
